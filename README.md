@@ -1,7 +1,5 @@
-<!-- Futuristic Banner Placeholder -->
-<!-- Replace this with your banner image once ready -->
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="Yannick Oetelshoven – Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/yannick-oe/yannick-oe/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Yannick 👋</h1>
