@@ -81,18 +81,17 @@ With a professional background in **Private Banking**, I bring strong analytical
 
 ## 🌐 Connect With Me
 
-**Email:** yannickoetelshoven@gmail.com  
-<br>
-
-<p>
-  <a target="_blanc" href="https://discord.com/users/yannick_oe">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="discord" />
+<div align="left">
+  <a href="https://discord.com/users/yannick_oe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a target="_blanc" href="https://www.linkedin.com/in/yannick-oetelshoven">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/yannick-oetelshoven" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="yannickoetelshoven@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
