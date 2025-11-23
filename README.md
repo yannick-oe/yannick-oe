@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yannick-oe/yannick-oe/main/banner.png" width="100%" />
+  <img src="https://github.com/yannick-oe/yannick-oe/blob/cf441b1e497833959146846b6f84031e0a66a404/Banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Yannick 👋</h1>
