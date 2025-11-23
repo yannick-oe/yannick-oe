@@ -85,11 +85,11 @@ With a professional background in **Private Banking**, I bring strong analytical
 <br>
 
 <p>
-  <a href="https://discord.com/users/yannick_oe">
+  <a target="_blanc" href="https://discord.com/users/yannick_oe">
     <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yannick-oetelshoven">
+  <a target="_blanc" href="https://www.linkedin.com/in/yannick-oetelshoven">
     <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin"/>
   </a>
 </p>
