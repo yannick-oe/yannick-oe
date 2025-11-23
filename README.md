@@ -62,7 +62,6 @@ With a professional background in **Private Banking**, I bring strong analytical
 - Developing multiple **frontend, backend & full stack projects** as part of my software engineering journey  
 - Building Python tools for **automation & workflow optimization**  
 - Exploring modern web frameworks & cloud technologies  
-- Preparing for long-term specialization in **Blockchain Development** & **AI systems**
 
 ---
 
@@ -106,9 +105,7 @@ With a professional background in **Private Banking**, I bring strong analytical
 
 ## 🛰️ Future Goals
 
-- Work as a **Fully Remote Full Stack / Python Developer**  
 - Build advanced **automation & AI workflows**  
-- Specialize in **Blockchain Development** or **Game Development** long-term  
 - Contribute to open-source, tech communities & real-world impact projects  
 
 ---
