@@ -1,112 +1,84 @@
-<p align="center">
-  <img src="https://github.com/yannick-oe/yannick-oe/blob/346adb24361ba6edab0fa0a43755fa40e442cad3/Banner.png" width="100%" />
-</p>
+<!-- Profile README · github.com/yannick-oe/yannick-oe -->
+<!-- Publish order: commit banner.v1.png to this repo first, then this file. -->
 
-<h1 align="center">Hi, I'm Yannick 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer (in training) • Python Developer • Automation & AI Enthusiast</strong><br/>
-  Always improving – 1% every day.
-</p>
+<a href="https://yannick-oetelshoven.at">
+  <img src="./banner.v1.png" alt="Yannick Oetelshoven — Product-minded Developer" width="100%">
+</a>
 
----
+<br>
 
-## 🚀 About Me
+**Eight years in finance. Product Owner in banking. Self-taught full-stack developer.**<br>
+Most developers bring one of the three — I work from the overlap.
 
-I'm currently completing a **16-month Full Stack Software Developer program** (Frontend & Backend) with a strong focus on:
+Vienna, AT · [**yannick-oetelshoven.at**](https://yannick-oetelshoven.at) · [**LinkedIn**](https://www.linkedin.com/in/yannick-oetelshoven) · [**Email**](mailto:oetelshoven.dev@gmail.com)
 
-- Building modern, scalable web applications  
-- Python-based backend development & automation  
-- AI-driven workflows, APIs & cloud-enabled systems  
-- Clean code, architecture & continuous improvement  
-- Applying a growth mindset to master complex technologies  
+`8 yrs business & finance` · `10+ products built` · `Lighthouse 4×100 — measured live`
 
-With a professional background in **Private Banking**, I bring strong analytical thinking, precision, and a passion for building **efficient digital solutions** that automate, simplify, and scale.
-
----
-
-## 🧠 Tech Stack (Top 10)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yannick-oe&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannick-oe&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yannick-oe&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 What I'm Working On
-
-- Developing multiple **frontend, backend & full stack projects** as part of my software engineering journey  
-- Building Python tools for **automation & workflow optimization**  
-- Exploring modern web frameworks & cloud technologies  
-
----
-
-## 📚 Currently Learning  
-(According to the official Developer Akademie curriculum)
-
-- Advanced JavaScript, TypeScript, Angular  
-- Responsive design & UI component architectures  
-- Python, Django, Django REST Framework  
-- SQL, PostgreSQL, Redis, caching & scaling  
-- Cloud hosting, CI/CD & DevOps basics  
-- AI automation workflows (n8n, APIs, LLM integration)  
-- Secure programming, authentication & API security  
-- Agile methodology & collaborative development  
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://discord.com/users/yannick_oe" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yannick-oetelshoven" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:yannickoetelshoven@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
+## The short version
+
+```typescript
+type Developer = {
+  readonly focus: string;
+  readonly stack: Record<"frontend" | "backend" | "ai", readonly string[]>;
+  readonly craft: readonly string[];
+  readonly principles: readonly string[];
+  readonly openTo: string;
+};
+
+const yannick = {
+  focus: "products, not just features",
+  stack: {
+    frontend: ["Angular", "TypeScript", "SCSS"],
+    backend: ["Python", "Django", "PostgreSQL", "Firebase"],
+    ai: ["LLM integration", "workflow automation"],
+  },
+  craft: ["clean architecture", "accessibility", "performance budgets", "game dev"],
+  principles: [
+    "start with the user, not the code",
+    "AI is leverage, not autopilot",
+    "discipline beats talent",
+  ],
+  openTo: "freelance product work",
+} as const satisfies Developer;
+```
+
+<details>
+<summary><b>The longer story</b></summary>
+<br>
+
+I learned business before I learned to build. Eight years in finance — today as a Product Owner in banking — taught me how real companies operate, how regulated industries actually work, and, thanks to a long-running interest in psychology, how the people on both ends of a product think. The engineering I taught myself: frontend, backend, and the AI workflows that connect them — because I wanted to own products end to end instead of handing them off.
+
+</details>
+
+## Things I've shipped
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[Vibo](https://github.com/yannick-oe/vibo)** · [live](https://vibo.yannick-oetelshoven.at) | My biggest build — real-time team chat in the Slack/Discord family: channels, DMs, live sync, architected to extend to mobile and desktop without a rewrite | Angular · TypeScript · Firebase |
+| **[Solvara](https://github.com/yannick-oe/Solvara-Echoes-of-the-Wilds)** · [live](https://solvara.yannick-oetelshoven.at) | *Echoes of the Wilds* — a 2D platformer, hand-built: vanilla JavaScript, HTML5 Canvas, custom levels and art. The build I'm proudest of | JavaScript · Canvas |
+| **[Portfolio](https://github.com/yannick-oe/Portfolio)** · [live](https://yannick-oetelshoven.at) | My site, engineered like a product — prerendered Angular, bilingual EN/DE, Lighthouse 4×100 on the live domain | Angular · TypeScript · SCSS |
+| **[Pokedex](https://github.com/yannick-oe/pokedex)** · [live](https://pokedex.yannick-oetelshoven.at) | Early API work that still holds up — a Pokédex on the PokéAPI, vanilla JavaScript | JavaScript · REST |
+
+Four picks from 10+ builds — Django services are next on the bench.
+
+## Now
+
+AI-driven products, built lean. I'm betting that a small, sharp team with AI as leverage beats a big one — and I'm building accordingly. Next up: Django and PostgreSQL services to deepen the backend half.
+
+## Work with me
+
+I take on freelance product work: web apps, AI-driven workflows, and full-stack builds that are meant to last. If you're building something and want a developer who treats it like a product, not a ticket — my inbox is open.
+
+**[oetelshoven.dev@gmail.com](mailto:oetelshoven.dev@gmail.com)** · [yannick-oetelshoven.at](https://yannick-oetelshoven.at) · [LinkedIn](https://www.linkedin.com/in/yannick-oetelshoven)
+
 ---
 
-## 🧭 Philosophy
+<div align="center">
 
-> “Always improving – 1% every day.”  
-> Continuous learning, automation-focused problem solving and a drive to push technology forward.
+`chore(mindset): a little better today than yesterday`
 
----
-
-## 🛰️ Future Goals
-
-- Build advanced **automation & AI workflows**  
-- Contribute to open-source, tech communities & real-world impact projects  
-
----
-
-<p align="center">
-  <strong>Thanks for visiting my profile! Feel free to check out my repositories and follow my journey.</strong>
-</p>
+</div>
